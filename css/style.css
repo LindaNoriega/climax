@@ -1,0 +1,20 @@
+/*codigo de clima por erick guzman*/
+.fondo{
+  background: url(https://st.depositphotos.com/2859315/4313/v/950/depositphotos_43133461-stock-illustration-vector-weather-icons-clouds-sun.jpg)no-repeat;
+  background-size:cover;
+}
+.a{
+  background: transparent;
+}
+.d{
+  font-family: 'arial', cursive;
+  text-align: center;
+  font-size: 90px;
+  color: pink;
+}
+.ss{
+	color: #8C33FF
+}
+*{
+	color: #8C33FF
+}
